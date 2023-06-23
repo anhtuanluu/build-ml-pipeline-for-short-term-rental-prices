@@ -1,3 +1,6 @@
+# wandb directory
+https://wandb.ai/ai-team-1409/nyc_airbnb
+
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
@@ -38,7 +41,7 @@ and click on `Fork` in the upper right corner. This will create a fork in your G
 repository that is under your control. Now clone the repository locally so you can start working on it:
 
 ```
-git clone https://github.com/[your github username]/build-ml-pipeline-for-short-term-rental-prices.git
+git clone https://github.com/anhtuanluu/build-ml-pipeline-for-short-term-rental-prices.git
 ```
 
 and go into the repository:
